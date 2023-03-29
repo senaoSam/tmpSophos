@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>DB572F77-1A27-429B-AD13-9455F842FC88</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M11.1228967,2.76318673 L9.69467407,1.20106815 L10.4930139,0.343905655 C10.8885217,-0.0806701634 11.3279749,-0.120724486 11.6868616,0.271807874 L11.9725061,0.592242454 C12.3313928,0.992785678 12.3167444,1.46542668 11.9212366,1.89801337 L11.1228967,2.76318673 Z M2.15072876,12.5604738 L0.378267825,13.3054842 C0.158541262,13.3936037 -0.0685095192,13.1292451 0.0193811058,12.8889192 L0.729830325,10.9983552 L8.99887329,1.97011104 L10.4197717,3.51620787 L2.15072876,12.5604738 Z" id="path-1"></path>
+    </defs>
+    <g id="Dashboard/Diagnosis" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="new-switch-Diagnosis－0827-VLAN-2" transform="translate(-634.000000, -1306.000000)">
+            <g id="Row1-Table/Row/1-Row-D-vlan-編輯" transform="translate(116.000000, 1299.000000)">
+                <g id="pen-3--copy" transform="translate(518.000000, 7.656250)">
+                    <g id="ic/tool/白/pen-3-copy-ic/tool/白/pen-1">
+                        <g id="🎨icon-color" transform="translate(3.000000, 3.281250)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+                            <g id="🎨icon-color-🎨icon-color/網頁整理版/Gray/Gray4/Gray4-深色" mask="url(#mask-2)" fill="#444446">
+                                <g transform="translate(-3.000000, -3.281250)" id="Icon-Shade">
+                                    <rect x="0" y="0" width="18" height="19.6875"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
