@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>B1E80079-4035-4D7E-B334-0A8B8840193C</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M10.5585938,1.96171884 L6.05859375,0.086718754 C5.78175058,-0.0281269775 5.47059317,-0.0281269775 5.19375,0.086718754 L0.69375,1.96171884 C0.27421875,2.13515635 0,2.54531262 0,3.00000014 C0,7.6523441 2.68359375,10.8679693 5.19140625,11.9132818 C5.46796875,12.0281256 5.7796875,12.0281256 6.05625,11.9132818 C8.06484375,11.076563 11.25,8.18671913 11.25,3.00000014 C11.25,2.54531262 10.9757813,2.13515635 10.5585938,1.96171884 Z M5.62734375,10.4601563 L5.625,1.53046879 L9.74765619,3.24843754 C9.67031244,6.79687504 7.82343747,9.36796879 5.62734375,10.4601563 Z" id="path-1"></path>
+    </defs>
+    <g id="Left-menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tree-view+Shield-" transform="translate(-534.000000, -246.000000)">
+            <g id="shield" transform="translate(534.000000, 246.000000)">
+                <g>
+                    <path d="M4.66666667,1.33333336 L7.46747477,1.33333336 C8.84120386,0.732021118 9.9775138,1.42296536 10.8764046,3.40616609 C11.7752953,5.38936682 10.9329563,7.59603524 8.34938743,10.0261714 C7.64451748,10.575374 7.06867006,10.9275266 6.62184518,11.0826291 C6.1750203,11.2377316 5.73637409,11.2377316 5.30590654,11.0826291 L4.66666667,1.33333336 Z" id="Rectangle" fill="#FFFFFF"></path>
+                    <g id="🎨icon-color" transform="translate(0.666667, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)" fill="#409CFF" id="Icon-Shade">
+                            <g transform="translate(-0.666667, 0.000000)">
+                                <rect x="0" y="0" width="12" height="12"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
